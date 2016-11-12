@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('barryvanveen/lastfm', [
+    'as'   => 'lastfm',
+    'uses' => 'LastfmController@index',
+]);

@@ -1,6 +1,7 @@
 /.idea
 /node_modules
-/public/storage
+/packages
+/public_html/storage
 /storage/*.key
 /vendor
 .env
