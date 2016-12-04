@@ -21,7 +21,6 @@
             "database"
         ],
         "psr-4": {
-            "Barryvanveen\\Lastfm\\": "packages/barryvanveen/laravel-lastfm/src",
             "App\\": "app/"
         }
     },
