@@ -21,6 +21,7 @@
             "database"
         ],
         "psr-4": {
+            "Barryvanveen\\Lastfm\\": "packages/Barryvanveen/Lastfm/src",
             "App\\": "app/"
         }
     },
